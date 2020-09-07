@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![github stats](https://github-readme-stats.vercel.app/api?username=hid0&show_icons=true)
+
+- 🌱 I’m currently learning reactjs
+- 💬 Ask me about on twitter.com/faiz14_
 <!--
 **hid0/hid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
