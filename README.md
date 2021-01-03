@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=hid0&show_icons=true)
+![Faiz's github stats](https://github-readme-stats.vercel.app/api?username=hid0&show_icons=true&theme=tokyonight)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hid0&show_icons=true&theme=tokyonight)
 
 - 🌱 I’m currently learning reactjs
 - 💬 Ask me about on twitter.com/faiz14_
