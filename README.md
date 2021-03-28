@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-![Faiz's github stats](https://github-readme-stats.vercel.app/api?username=hid0&show_icons=true&theme=tokyonight)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hid0&show_icons=true&theme=tokyonight)
+![Faiz's github stats](https://github-readme-stats.vercel.app/api?username=hid0&show_icons=true&theme=dracula)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hid0&show_icons=true&theme=dracula)
 
 - 🌱 I’m currently learning reactjs
 - 💬 Ask me about on twitter.com/faiz14_
+- 📫 How to reach me: faiz14hiedayatoelloh@gmail.com
 <!--
 **hid0/hid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
