@@ -2,7 +2,7 @@
 
 ![Faiz's github stats](https://github-readme-stats.vercel.app/api?username=hid0&show_icons=true&theme=dracula)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hid0&show_icons=true&theme=dracula)
 
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning reactjs, dart, & flutter
 - 💬 Ask me about on twitter.com/faiz14_
 - 📫 How to reach me: faiz14hiedayatoelloh@gmail.com
 <!--
