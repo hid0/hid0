@@ -1,4 +1,4 @@
-### Hi, there. I'm <a href="https://faizhid.xyz" target="_blank">Faiz Hidayatulloh</a> 👋🏼
+### Hi, there. I'm <a href="https://www.linkedin.com/in/faiz-hidayatulloh-9b1615157/" target="_blank">Faiz Hidayatulloh</a> 👋🏼
 
 ![Faiz's github stats](https://github-readme-stats-faizhid.vercel.app/api?username=hid0&show_icons=true&theme=vue-dark&count_private=true)- ![Top Langs](https://github-readme-stats-faizhid.vercel.app/api/top-langs?username=hid0&show_icons=true&theme=vue-dark&count_private=true)
 
