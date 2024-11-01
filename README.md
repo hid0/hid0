@@ -2,7 +2,7 @@
 
 ![Faiz's github stats](https://github-readme-stats-faizhid.vercel.app/api?username=hid0&show_icons=true&theme=vue-dark&count_private=true)- ![Top Langs](https://github-readme-stats-faizhid.vercel.app/api/top-langs?username=hid0&show_icons=true&theme=vue-dark&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hid0&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hid0&hide_border=true&border_radius=5&locale=jv&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 <!-- [![Github Badge](https://img.shields.io/github/followers/hid0?style=social)](https://github.com/hid0)
 [![Linkedin Badge]()](https://www.linkedin.com/in/faiz-hidayatulloh-9b1615157/)
 [![Instagram Badge]()]()
