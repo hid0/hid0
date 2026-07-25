@@ -30,6 +30,5 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=hid0&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_latte" alt="stats graph" />
-  <br/><br/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hid0&layout=donut-vertical&langs_count=8&theme=vue" alt="languages graph" />
 </div>
